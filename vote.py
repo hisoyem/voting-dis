@@ -14,4 +14,4 @@ async def on_message(message):
         await message.add_reaction("👍🏼")
         await message.add_reaction("👎🏼")
 
-client.run("Njg5MzAxNTI1MjM0ODQzNzUw.XuSNGA.x26cVYf2uIgQIReqetxQUM5vKHM")
+client.run("Njg5MzAxNTI1MjM0ODQzNzUw.XuSOLQ.LzDSPRvWoP1gBvZFWns2ge1zx3A")
